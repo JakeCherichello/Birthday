@@ -1,44 +1,30 @@
-<!doctype html>
-<html lang="en">
-    <head>
-        <title>Title</title>
-        <!-- Required meta tags -->
-        <meta charset="utf-8" />
-        <meta
-            name="viewport"
-            content="width=device-width, initial-scale=1, shrink-to-fit=no"
-        />
 
-        <!-- Bootstrap CSS v5.2.1 -->
-        <link
-            href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
-            rel="stylesheet"
-            integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
-            crossorigin="anonymous"
-        />
-    </head>
+function Change1944() {
+    document.getElementById('Change-Image').src = 'images/paris.jpg'
+    document.getElementById('Change-Text').innerText = ' Paris is liberated after four years of Nazi occupation'
+    document.getElementById('Change-Date').innerText = 'August 25, 1944'
+}
 
-    <body>
-        <header>
-            <!-- place navbar here -->
-        </header>
-        <main></main>
-        <footer>
-            <!-- place footer here -->
-        </footer>
-        <!-- Bootstrap JavaScript Libraries -->
-        <script src="script.js"></script>
-        <script
-            src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
-            integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
-            crossorigin="anonymous"
-        ></script>
-script.js
-        <script
-            src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
-            integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
-            crossorigin="anonymous"
-        ></script>
-<script src="script.js"></script>
-    </body>
-</html>
+function Change1979() {
+    document.getElementById('Change-Image').src = 'images/david.jpg'
+    document.getElementById('Change-Text').innerText = 'On August 25, 1979, the storm that will become Hurricane David forms near Cape Verde off the African coast in the eastern Atlantic Ocean. It would go on to devastate the island of Dominica, and then the Dominican Republic, killing 1,500 people.'
+    document.getElementById('Change-Date').innerText = 'August 25, 1979'
+}
+
+function Change1984() {
+    document.getElementById('Change-Image').src = 'images/capote.jpg'
+    document.getElementById('Change-Text').innerText = 'Truman Capote, the author of the pioneering true-crime novel In Cold Blood, dies at age 59 in Los Angeles.'
+    document.getElementById('Change-Date').innerText = 'August 25, 1984'
+}
+
+function Change1985() {
+    document.getElementById('Change-Image').src = 'images/smith.jpg'
+    document.getElementById('Change-Text').innerText = 'Samantha Smith, the 13-year-old “ambassador” to the Soviet Union, dies in a plane crash. Smith was best known for writing to Soviet leader Yuri Andropov in 1982 and visiting the Soviet Union as Andropov’s guest in 1983.'
+    document.getElementById('Change-Date').innerText = 'August 25, 1985'
+}
+
+function Change2009() {
+    document.getElementById('Change-Image').src = 'images/ted.jpg'
+    document.getElementById('Change-Text').innerText = 'On August 25, 2009, Edward “Ted” Kennedy, the youngest brother of President John F. Kennedy and a U.S. senator from Massachusetts from 1962 to 2009, dies of brain cancer at age 77 at his home in Hyannis Port, Massachusetts. Kennedy, one of the longest-serving senators in American history, was a leader of the Democratic Party and a spokesman for liberal causes who also was known for his ability to work with those on both sides of the political aisle.'
+    document.getElementById('Change-Date').innerText = 'August 25, 2009'
+}
