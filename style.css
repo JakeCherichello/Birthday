@@ -1,7 +1,39 @@
-body{
-    background-color: rgb(184, 181, 181);
-}
 
 h2{
     font-size: 25px;
+}
+
+h3{
+  font-size: 20px;
+}
+
+.img1 {
+    max-width: 40%;
+    height: auto; 
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin: 0;
+    padding-bottom: 100px; 
+    background-color: rgb(184, 181, 181);
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100px; 
+    background-color: rgba(0, 0, 0, 0.8); 
+    color: white; 
+    text-align: center;
+    padding: 20px;
+}
+
+.button {
+    margin: 100px; /* Add spacing around the buttons */
 }

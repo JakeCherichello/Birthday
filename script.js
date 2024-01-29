@@ -1,4 +1,4 @@
-function Change2007() {
+function Change2006() {
     document.getElementById('Change-Image').src = 'images/me.jpg' 
 }
 
